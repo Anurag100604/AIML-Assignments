@@ -1,4 +1,4 @@
-# AIML Assignments 1-10 — Final Corrected Codes
+# AIML Assignments 1-10 — Codes
 
 These ten Python files are the final runnable versions aligned to the supplied AIML practical record (`AIML_Final.docx`). They use the same real datasets and core methods documented in the record, with the plotting/output sections included so the documented figures can be reproduced.
 
